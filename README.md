@@ -12,6 +12,7 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N   | Code | Video | 
 |-----| --- |--- |
+| 148 | [src](videos/148_generator_finalization) | [Watch out for this (async) generator cleanup pitfall in Python](https://youtu.be/N56Jrqc7SBk) |
 | 147 | [src](videos/147_local_llm) | [Run a Large Language Model (LLM) at home on your GPU](https://youtu.be/b0HMimUb4f0) |
 | 146 | [src](videos/146_docker_tutorial) | [Docker Tutorial for Beginners](https://youtu.be/b0HMimUb4f0) |
 | 145 | [src](videos/145_all_itertools) | [Python itertools - The key to mastering iteration](https://youtu.be/1p7xa_BHYDs) |
